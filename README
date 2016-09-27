@@ -1,0 +1,4 @@
+When editing a file in Emacs, you sometimes want to do arithmetic with the
+object that point is at.
+
+This is a package to let you do that.
